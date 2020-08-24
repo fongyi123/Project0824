@@ -4,11 +4,17 @@ https://letswrite.tw/api-cross-domain-node/
 
 
 2.中央氣象局開放資料平臺之資料擷取API
-
+CWB-0EF10C78-E76B-49E3-BD74-05B21416C3F5
 https://opendata.cwb.gov.tw/dist/opendata-swagger.html#/
 
 
+3.[Javascript] <div> 隱藏法</div>
+https://blog.xuite.net/mangohost/wretch/123102961-%5BJavascript%5D+%3Cdiv%3E+隱藏法%3C%2Fdiv%3E
 
+
+4.JS & JQuery 顯示與隱藏 HTML DIV 的處理
+https://kanchengzxdfgcv.blogspot.com/2019/01/js-jquery-html-div.html
+// document.getElementById("card").style.display="none";
 
 
 
@@ -32,3 +38,17 @@ https://tony915.gitbooks.io/laravel4/content/install/install_composer.html
 
 安裝 Composer---windows
 https://ithelp.ithome.com.tw/articles/10190770
+
+jquery換多張圖
+https://ithelp.ithome.com.tw/questions/10194192
+
+
+<!-- <script>
+    $(function () {
+      $('.card img').mouseover(function () {
+        this.src = this.src.replace(/(.*?)(\/)(\w{4,8})(_\d{1,2})(.jpg)$/, "$1$2colorful$4$5");
+      }).mouseout(function () {
+        this.src = this.src.replace(/(.*?)(\/)(\w{4,8})(_\d{1,2})(.jpg)$/, "$1$2gray$4$5");
+      });
+    });
+  </script> -->
