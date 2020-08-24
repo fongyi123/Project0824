@@ -1,0 +1,34 @@
+1.接氣象局api、跨網域ajax資料
+
+https://letswrite.tw/api-cross-domain-node/
+
+
+2.中央氣象局開放資料平臺之資料擷取API
+
+https://opendata.cwb.gov.tw/dist/opendata-swagger.html#/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+安裝 Composer---MAC
+https://tony915.gitbooks.io/laravel4/content/install/install_composer.html
+
+安裝 Composer---windows
+https://ithelp.ithome.com.tw/articles/10190770

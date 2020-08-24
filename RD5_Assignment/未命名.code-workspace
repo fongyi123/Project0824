@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../0819"
+		},
+		{
+			"path": "../0821"
+		},
+		{
+			"path": "../0817"
+		},
+		{
+			"path": "../0820"
+		},
+		{
+			"path": "../PID_Assignment"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../RD1_Assignment"
+		},
+		{
+			"path": "../../../../Users/cs01128/0812"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "0812"
+	}
+}
